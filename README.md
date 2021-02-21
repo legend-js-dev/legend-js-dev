@@ -16,10 +16,10 @@
 
 ### Hey i'm legend-js Gald to see you here! &nbsp;
 
-I am a passionate self-taught programmer.
+I am a passionate self-taught programmer from Nepal and my hobby is to code.
  - 🌱 I’m currently learning HTML & CSS
 - 💬 Ask me about anything [here](https://discord.gg/5PvBYxPgQS)
-- 🥅 2021 Goals: make some awesome Discord Bots
+- 🥅 2021 Goals: make some awesome Discord Bots (i'm currently working on economy bot too)
 
 **Languages and Tools:** &nbsp;
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
