@@ -4,7 +4,7 @@
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-3/481783822342553601.png)
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/481783822342553601.png" alt="Discord" /> </p>
 
 
 
