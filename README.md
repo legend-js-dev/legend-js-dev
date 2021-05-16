@@ -17,7 +17,7 @@
 ### Hey i'm legend-js Gald to see you here! &nbsp;
 
 I am a passionate self-taught programmer from Nepal and my hobby is to code.
- - 🌱 I’m currently learning Python
+ - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://discord.gg/5PvBYxPgQS)
 - 🥅 2021 Goals: make some awesome Discord Bots
 
