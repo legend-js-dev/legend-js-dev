@@ -19,7 +19,7 @@
 I am a passionate self-taught programmer from Nepal and my hobby is to code.
  - 🌱 I’m a full Stack Developer
 - 💬 Ask me about anything [here](https://discord.gg/5PvBYxPgQS)
-- 🥅 2021 Goals: make some awesome Discord Bots and websites, and maybe even learn more programming languages
+- 🥅 2022 Goals: make some awesome Discord Bots and websites, and maybe even learn more programming languages
 
 **Languages and Tools:** &nbsp;
 <p align="center">
