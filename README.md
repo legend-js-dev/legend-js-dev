@@ -6,6 +6,7 @@
 <h4 align="center">I am a Full Stack Developer.<br>I like to Code, Listen to Music, Design, Innovate and Experiment.<br>I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.<br>I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"><a href="https://ko-fi.com/O4O1E53S9"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/><a/></p>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=legend-js-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="legendjs" /> <br> <img src="https://media.discordapp.net/attachments/954624639261351976/980356253341581332/Image.jpg" alt="legendjs"> </p>
 
 ## 🔥 Streak Stats
