@@ -7,7 +7,7 @@
 <br>
 <p align="center"><a href="https://ko-fi.com/O4O1E53S9"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/><a/></p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=legend-js-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="legendjs" /> <br> <img src="https://media.discordapp.net/attachments/954624639261351976/980356253341581332/Image.jpg" alt="legendjs"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=legend-js-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="legendjs" /> <br> <img src="https://media.discordapp.net/attachments/1062367159117951016/1082222733070442647/Image_39.png" alt="legendjs"> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legend-js-dev&theme=algolia" alt="legendjs"  /></p>
